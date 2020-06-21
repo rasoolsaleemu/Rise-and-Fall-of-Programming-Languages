@@ -1,0 +1,2 @@
+# Rise-and-Fall-of-Programming-Languages
+How can we tell what programming languages and technologies are used by the most people? How about what languages are growing  and which are shrinking, so that we can tell which are most worth investing time in? One excellent source of data is  Stack Overflow(https://stackoverflow.com/), a programming question and answer site with more than 16 million questions on programming topics.  By measuring the number of questions about each technology, we can get an approximate sense of how many people are using it. 
